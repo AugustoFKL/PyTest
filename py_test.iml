@@ -16,9 +16,9 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/PyTest/__pycache__" />
-      <excludeFolder url="file://$MODULE_DIR$/py_test/__pycache__" />
-      <excludeFolder url="file://$MODULE_DIR$/py_test/migrations/__pycache__" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PyTest/py_test/__pycache__" />
+      <excludeFolder url="file://$MODULE_DIR$/PyTest/py_test/migrations/__pycache__" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

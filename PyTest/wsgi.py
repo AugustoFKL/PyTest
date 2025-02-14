@@ -1,5 +1,4 @@
-"""
-WSGI config for PyTest project.
+"""WSGI config for PyTest project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

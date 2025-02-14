@@ -1,5 +1,4 @@
-"""
-ASGI config for PyTest project.
+"""ASGI config for PyTest project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
